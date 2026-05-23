@@ -6,6 +6,8 @@
 
 ▹Throughout my career, I have worked in Agile environments (Scrum/Kanban), actively participating in dailies, planning, refinement, reviews, retrospectives, and discovery sessions, collaborating closely with developers, product teams, and stakeholders to continuously improve quality processes.
 
+▹Quality Assurance Instructor & Mentor, bridging real-world market experience with education. I act as an on-demand corporate trainer for educational institutions (on-site courses) and lead 2 self-authored online programs, empowering new professionals and specialists in the software testing field.
+
 🌐Reach me out on:
   ➳ linkedin.com/in/ysabelle-sousa
   ➳ in.ysabelle@gmail.com 
